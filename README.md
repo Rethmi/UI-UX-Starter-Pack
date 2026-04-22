@@ -108,7 +108,7 @@ It helps to quickly access high-quality assets and improve design workflows.
 
 
 
-## 🚀 Figma Animation Documentation 
+## 🚀 Figma Animation   
 
 This section explains the UI animations designed in Figma Prototype Mode for the MechCHR system.
 All animations are created using Prototype interactions + Smart Animate to simulate real interactive UI behavior.
@@ -123,8 +123,8 @@ When the user moves across the screen, small elements follow the cursor path cre
 
 How it was created in Figma
 - Two frames were designed
-      1.Frame 1: Cursor at initial position
-      2.Frame 2: Cursor shifted position
+      1. Frame 1: Cursor at initial position
+      2. Frame 2: Cursor shifted position
 - Prototype connection added between frames
 - Interaction type set to
       Trigger: After Delay / Mouse Move (simulated)
@@ -191,8 +191,8 @@ Menu expands and collapses smoothly when triggered.
 How it was created in Figma
 
 - Two frames
-    Collapsed menu
-    Expanded menu
+    1. Collapsed menu
+    2. Expanded menu
 - Prototype settings
     Trigger: On Click / Hover
     Action: Change To
