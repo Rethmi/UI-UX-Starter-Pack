@@ -101,6 +101,11 @@ It helps to quickly access high-quality assets and improve design workflows.
 
 ---
 
+## 🎨Figma Plugins
+
+<img width="709" height="890" alt="figma plugin" src="https://github.com/user-attachments/assets/e2e39b54-9322-453e-9d8b-f2ecf36ff521" />
+
+
 ## 🤝 Contributing
 Contributions are welcome!  
 Feel free to add new tools, resources, or improve existing content.
