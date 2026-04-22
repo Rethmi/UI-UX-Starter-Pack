@@ -106,6 +106,101 @@ It helps to quickly access high-quality assets and improve design workflows.
 <img width="709" height="890" alt="figma plugin" src="https://github.com/user-attachments/assets/e2e39b54-9322-453e-9d8b-f2ecf36ff521" />
 
 
+
+
+## 🚀 Figma Animation Documentation (MechCHR)
+
+This section explains the UI animations designed in Figma Prototype Mode for the MechCHR system.
+All animations are created using Prototype interactions + Smart Animate to simulate real interactive UI behavior.
+
+### 🎯 1. Cursor Trail Animation
+
+This animation simulates a moving cursor with a trailing effect, giving a dynamic and interactive feel to the UI.
+
+#### Concept
+
+When the user moves across the screen, small elements follow the cursor path creating a smooth trail effect.
+
+How it was created in Figma
+- Two frames were designed
+      Frame 1: Cursor at initial position
+      Frame 2: Cursor shifted position
+- Prototype connection added between frames
+- Interaction type set to
+      Trigger: After Delay / Mouse Move (simulated)
+      Action: Change To
+      Animation: Smart Animate
+      Duration: 300–500ms
+      Easing: Ease In & Out
+  
+Result-Smooth motion effect that visually represents cursor movement flow.
+
+### 🔁 2. Auto Scrolling Animation
+
+This animation creates an infinite horizontal scrolling effect for UI sections like cards or content lists.
+
+#### Concept
+
+Content continuously moves left creating a seamless loop animation.
+
+How it was created in Figma
+
+- Two identical frames created
+    Frame A: Content at starting position
+    Frame B: Content shifted horizontally
+- Frames connected using prototype link
+- Settings
+    Trigger: After Delay
+    Action: Change To
+    Animation: Smart Animate
+    Duration: 1000ms
+    Loop: Enabled using frame cycling
+
+Result-Continuous scrolling effect without user interaction.
+
+### ✨ 3. Hover Zoom Animation
+
+This animation enhances UI cards and images when the user interacts with hover actions.
+
+#### Concept
+
+Elements slightly scale up on hover to create a modern interactive feel.
+
+How it was created in Figma
+
+- Two states designed
+    Default card (normal size)
+    Hover card (slightly scaled up)
+- Prototype interaction
+    Trigger: While Hovering
+    Action: Change To
+    Animation: Smart Animate
+    Duration: 200–300ms
+    Easing: Ease Out
+  
+Result-Smooth zoom-in effect that improves UI responsiveness.
+
+### 📌 4. Navigation Dropdown Animation
+
+This animation is used for menu interactions like dropdowns in the navigation bar.
+
+ #### Concept
+
+Menu expands and collapses smoothly when triggered.
+
+How it was created in Figma
+
+- Two frames
+    Collapsed menu
+    Expanded menu
+- Prototype settings
+    Trigger: On Click / Hover
+    Action: Change To
+    Animation: Smart Animate
+    Duration: 300–400ms
+
+Result-Clean and modern dropdown transition effect.
+
 ## 🤝 Contributing
 Contributions are welcome!  
 Feel free to add new tools, resources, or improve existing content.
