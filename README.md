@@ -108,7 +108,7 @@ It helps to quickly access high-quality assets and improve design workflows.
 
 
 
-## 🚀 Figma Animation Documentation (MechCHR)
+## 🚀 Figma Animation Documentation 
 
 This section explains the UI animations designed in Figma Prototype Mode for the MechCHR system.
 All animations are created using Prototype interactions + Smart Animate to simulate real interactive UI behavior.
