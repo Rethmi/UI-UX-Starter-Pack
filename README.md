@@ -123,8 +123,8 @@ When the user moves across the screen, small elements follow the cursor path cre
 
 How it was created in Figma
 - Two frames were designed
-      Frame 1: Cursor at initial position
-      Frame 2: Cursor shifted position
+      1.Frame 1: Cursor at initial position
+      2.Frame 2: Cursor shifted position
 - Prototype connection added between frames
 - Interaction type set to
       Trigger: After Delay / Mouse Move (simulated)
@@ -146,8 +146,8 @@ Content continuously moves left creating a seamless loop animation.
 How it was created in Figma
 
 - Two identical frames created
-    Frame A: Content at starting position
-    Frame B: Content shifted horizontally
+    1. Frame A: Content at starting position
+    2. Frame B: Content shifted horizontally
 - Frames connected using prototype link
 - Settings
     Trigger: After Delay
@@ -169,8 +169,8 @@ Elements slightly scale up on hover to create a modern interactive feel.
 How it was created in Figma
 
 - Two states designed
-    Default card (normal size)
-    Hover card (slightly scaled up)
+   1. Default card (normal size)
+   2. Hover card (slightly scaled up)
 - Prototype interaction
     Trigger: While Hovering
     Action: Change To
