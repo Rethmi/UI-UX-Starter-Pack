@@ -122,9 +122,10 @@ This animation simulates a moving cursor with a trailing effect, giving a dynami
 When the user moves across the screen, small elements follow the cursor path creating a smooth trail effect.
 
 How it was created in Figma
+
 - Two frames were designed
-      1. Frame 1: Cursor at initial position
-      2. Frame 2: Cursor shifted position
+      1. Frame A: Cursor at initial position
+      2. Frame B: Cursor shifted position
 - Prototype connection added between frames
 - Interaction type set to
       Trigger: After Delay / Mouse Move (simulated)
